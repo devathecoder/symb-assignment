@@ -1,0 +1,27 @@
+.fas,
+.far {
+    color: rgb(83, 83, 245);
+}
+
+.btn-color {
+    background-color: rgb(8, 157, 149);
+    color: white;
+}
+
+.highlight {
+    color: rgb(8, 157, 149);
+}
+
+.new-hr-color {
+    border: 0;
+    clear: both;
+    display: block;
+    width: 96%;
+    background-color: rgb(8, 157, 149);
+    height: 1px;
+}
+
+.smallest-text{
+    font-size: 10px;
+    color: rgb(97, 97, 97);
+}
